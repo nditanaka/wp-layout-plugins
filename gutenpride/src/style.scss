@@ -1,0 +1,23 @@
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+.wp-block-create-block-gutenpride {
+	background-color: #21759b;
+	color: #fff;
+	padding: 2px;
+}
+
+@font-face {
+	font-family: Gilbert;
+	src: url(gilbert-color.otf);
+	font-weight: bold;
+}
+
+.wp-block-create-block-gutenpride {
+	font-family: Gilbert;
+	font-size: 64px;
+}
